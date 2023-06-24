@@ -1,12 +1,14 @@
 h1{
     font-family:Arial;
-    font-size: 20pt;
+    font: size 2rem;
     color: blue;
 }
 p{
     font-size: 1rem;
 }
 body{
-    color: red;
+    color: rgb(255, 0, 0);
 
+}
+img{border-width: 1rem;
 }
